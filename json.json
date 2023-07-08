@@ -1,0 +1,23 @@
+POST /api/login
+Content-Type: application/json
+
+[
+  {
+    "id": 2,
+    "username": "rebaz",
+    "password": "w",
+    "email": "rebaz@gmail.com"
+  },
+  {
+    "id": 5,
+    "username": "a",
+    "password": "a",
+    "email": "a@gmail.com"
+  },
+  {
+    "id": 6,
+    "username": "mhamad",
+    "password": "mhamad",
+    "email": "mhamad@gmail.com"
+  }
+]
